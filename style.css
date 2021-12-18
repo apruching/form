@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    background: #dcdde1;
+    padding: 0 20px;
+}
+
+form h3 {
+    text-transform: capitalize;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    color: #192a56;
+    padding-top: 20px;
+}
+
+form label {
+    width: 100%;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 0;
+}
+
+form input {
+    width: 100%;
+    padding: 10px 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+form button {
+    background: #192a56;
+    outline: none;
+    color: #dcdde1;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
